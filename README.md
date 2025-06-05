@@ -1,6 +1,12 @@
 # Predicting-Earthquake-Induced-Building-Damage-Using-Machine-Learning
 To build a classification model that predicts the damage grade of a building based on its structural and geospatial features.
 
+## Project Structure
+- `notebooks/`: Jupyter notebooks for analysis
+- `src/`: Source code modules
+- `data/`: Raw and processed datasets
+- `results/`: Analysis outputs and visualizations
+
 ## Phase 1: Data Exploration and Preprocessing
 
 The first phase of the project involved a comprehensive exploration and preprocessing of the dataset to ensure quality and readiness for feature engineering and model development. This phase focused on understanding the structure of the data, identifying potential issues, and preparing the dataset for further analysis.
