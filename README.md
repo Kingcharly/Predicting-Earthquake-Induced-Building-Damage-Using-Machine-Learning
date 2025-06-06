@@ -1,5 +1,5 @@
 # Predicting-Earthquake-Induced-Building-Damage-Using-Machine-Learning
-To build a classification model that predicts the damage grade of a building based on its structural and geospatial features.
+To build a multiclass classification model that predicts the damage grade of a building based on its structural and geospatial features.
 
 ## Project Structure
 - `notebooks/`: Jupyter notebooks for analysis
