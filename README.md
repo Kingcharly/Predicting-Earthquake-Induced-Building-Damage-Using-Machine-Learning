@@ -3,7 +3,6 @@ To build a classification model that predicts the damage grade of a building bas
 
 ## Project Structure
 - `notebooks/`: Jupyter notebooks for analysis
-- `src/`: Source code modules
 - `data/`: Raw and processed datasets
 - `results/`: Analysis outputs and visualizations
 
